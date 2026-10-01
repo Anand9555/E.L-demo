@@ -1,0 +1,14 @@
+{
+  "name": "e.l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "echo Tests Passed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
